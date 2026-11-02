@@ -26,7 +26,7 @@ export const en = {
     'Seven years in frontend, three of them leading teams. I build React and Next.js products in clean layers, from the first line of markup to the release.',
   'hero.cv': 'Download CV (PDF)',
   'hero.work': 'See the work',
-  'hero.cvNote': 'One page, English. Updated October 2026.',
+  'hero.cvNote': 'Two pages, English. Updated November 2026.',
   'hero.photo': 'Vladyslav Tesliuk',
 
   'about.title': 'I build in layers',
@@ -39,7 +39,7 @@ export const en = {
   'facts.based': 'Based in',
   'facts.basedV': 'Warsaw, Poland',
   'facts.langs': 'Languages',
-  'facts.langsV': 'English C1, Polish B1, Ukrainian native',
+  'facts.langsV': 'English C1, Polish B2–C1, Ukrainian native',
   'facts.edu': 'Education',
   'facts.eduV': 'Bachelor, Modern web programming and game development, KhPI, 2023–2027',
 

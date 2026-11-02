@@ -24,7 +24,7 @@ export const pl: Messages = {
     'Siedem lat we frontendzie, w tym trzy lata prowadzenia zespołów. Buduję produkty w React i Next.js warstwa po warstwie, od pierwszej linii markupu po wydanie.',
   'hero.cv': 'Pobierz CV (PDF)',
   'hero.work': 'Zobacz projekty',
-  'hero.cvNote': 'Jedna strona, po angielsku. Aktualizacja: październik 2026.',
+  'hero.cvNote': 'Dwie strony, po angielsku. Aktualizacja: listopad 2026.',
   'hero.photo': 'Vladyslav Tesliuk',
 
   'about.title': 'Buduję warstwami',
@@ -37,7 +37,7 @@ export const pl: Messages = {
   'facts.based': 'Miasto',
   'facts.basedV': 'Warszawa, Polska',
   'facts.langs': 'Języki',
-  'facts.langsV': 'Angielski C1, polski B1, ukraiński ojczysty',
+  'facts.langsV': 'Angielski C1, polski B2–C1, ukraiński ojczysty',
   'facts.edu': 'Wykształcenie',
   'facts.eduV': 'Licencjat, nowoczesne programowanie webowe i tworzenie gier, KhPI, 2023–2027',
 
